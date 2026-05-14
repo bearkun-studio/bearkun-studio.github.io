@@ -997,7 +997,3 @@ media.net, 8CUE65SNU, RESELLER
 freewheel.tv, 1138513-524565, RESELLER
 freewheel.tv, sg1258340, RESELLER
 supply.colossusssp.com, 907, RESELLER
-AAAAA
-AAAA
-BBBB
-CCCC
